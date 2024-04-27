@@ -1,0 +1,4 @@
+class Constants{
+  static const String baseUrl="api.themoviedb.org";
+  static const String token="Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhYmEwMmQzZDA3NWJlZTIwZmM3YzcwNDFiOTE2NmZkMSIsInN1YiI6IjY2MjQ1MzA4YWY5NTkwMDE3ZDY3ZWZkZCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.5W8EaT3GBk8K2BSSiEJChAZQLqyq8-7LsjejtAFN7Xg";
+}

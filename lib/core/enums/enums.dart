@@ -1,0 +1,1 @@
+enum RequestStaus{init,loading,success,failure}
